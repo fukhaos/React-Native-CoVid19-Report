@@ -11,5 +11,5 @@ App about the CoVid19, with updated data about the disease.
 ![](https://github.com/fukhaos/React-Native-CoVid19-Report/blob/master/src/assets/print4.png)
 
 
-Youyube: 
+Youtube: 
 https://youtu.be/RefzcB1bq2c
