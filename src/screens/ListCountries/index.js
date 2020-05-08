@@ -9,7 +9,9 @@ const ListCountries = ({ navigation, route }) => {
   const [filter, setFilter] = useState(countries);
 
   useEffect(() => {
-    const result = countries.filter((p) => p.Country.toLowerCase().includes(search.toLowerCase()));
+    const result = countries.filter((country) =>
+      country.Country.toLowerCase().includes(search.toLowerCase()),
+    );
     setFilter(result);
   }, [search]);
 
