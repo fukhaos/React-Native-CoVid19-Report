@@ -1,0 +1,17 @@
+{
+  "name": "corona",
+  "displayName": "Co Vid 19",
+  "expo": {
+    "name": "corona",
+    "slug": "expo-template-bare",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
